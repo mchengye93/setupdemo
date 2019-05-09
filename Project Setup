@@ -1,0 +1,14 @@
+Steps to starting a new project:
+1) Initialize the folder for the project and for github
+2) Install dependencies
+3) Setup compile/bundling technology
+4) Plan the application:
+    a) Make a desired feature list (brainstorm if from scratch, derive from instruction if not)
+    b) Think about different user stories and edit/add/remove features
+    c) Make a wireframe/diagram of the UI
+    d) Make a schema for my database to store all data necessary to support final feature list
+    e) Plan RESTful API to support all the features
+    f) Make a data-flow diagram for each of the routes
+    g) Possibly make a data-flow diagram for each complete feature
+    h) Break my wireframe diagram down into React components and diagram with state and method passing
+    i) Stub out the API routes from 
