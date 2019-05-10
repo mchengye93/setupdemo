@@ -1,5 +1,6 @@
 Steps to starting a new project:
 1) Initialize the folder for the project and for github
+    - Start folder npm init (git init to start tracking stuff for github)
 2) Install dependencies
 3) Setup compile/bundling technology
 4) Plan the application:
@@ -11,4 +12,5 @@ Steps to starting a new project:
     f) Make a data-flow diagram for each of the routes
     g) Possibly make a data-flow diagram for each complete feature
     h) Break my wireframe diagram down into React components and diagram with state and method passing
-    i) Stub out the API routes from 
+    i) Stub out the API routes from step e) and create database controller methods to get information needed by each route.
+
